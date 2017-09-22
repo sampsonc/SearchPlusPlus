@@ -10,4 +10,4 @@ Carl Sampson
 
 MIT
 
-![](https:////in.getclicky.com/100632801ns.gif)
+![](https://in.getclicky.com/100632801ns.gif)
