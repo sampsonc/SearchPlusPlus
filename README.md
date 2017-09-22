@@ -9,5 +9,4 @@ Carl Sampson
 ## License
 
 MIT
-
-![](https://in.getclicky.com/100632801ns.gif)
+![Clicky](https://in.getclicky.com/100632801ns.gif)
